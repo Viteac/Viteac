@@ -1,5 +1,5 @@
 
-- 📫 How to reach me: aceviu@gmail.com | IRC @ freenonde.net #python @vimart
+- 📫 How to reach me: aceviu@gmail.com | IRC @ libera.chat #python ask for Master.
 
 <!---
 Viteac/Viteac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
